@@ -1,9 +1,0 @@
-Access key ID - AKIAUYHMKLHI2Y6KKM7Q
-Secret Access key - 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
-Bucket name - notes-tuto-upload
-Bucket region - US East (Ohio)
-Cognito - notes-user-pool
-Pool Id - us-east-2_KelqtFt8k
-Pool ARN - arn:aws:cognito-idp:us-east-2:326913120721:userpool/us-east-2_KelqtFt8k
-App client Id - 5d73i0cpdl1kboivqqk813565v
-
