@@ -1,0 +1,9 @@
+{
+    "body": "{\"content\":\"hello Mariana\",\"attachment\":\"hello.jpg\"}",
+    "requestContext":{
+        "identity": {
+            "congitoIdentityId":"USER-SUB-1234"
+        }
+    }
+
+}
